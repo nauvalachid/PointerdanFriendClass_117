@@ -35,6 +35,6 @@ class Lingkaran
 
         int luasLingkaran(int r)
         {
-            return 3.0 * 2 * r * r;
+            return 3.14 * 2 * r * r;
         }
 };
