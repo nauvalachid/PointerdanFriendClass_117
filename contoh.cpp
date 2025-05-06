@@ -32,4 +32,9 @@ class Lingkaran
             cout << "Masukkan jari-jari :";
             cin >> jarijari;
         }
+
+        int luasLingkaran(int r)
+        {
+            return 3.0 * 2 * r * r;
+        }
 };
